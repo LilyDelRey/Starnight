@@ -22,7 +22,7 @@ Screenshots
 ![The Homepage on desktop](/Showcase/home2.png)
  
 #### Original PSD Design
-![PSD file](/showcase/home.png)
+![PSD file](Showcase/psd.png)
 
 What I learned doing this project
 --------------
