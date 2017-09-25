@@ -18,8 +18,8 @@ Technologies Used
 Screenshots
 --------------
 #### Homepage on desktop
-![The Homepage on desktop](/showcase/home1.png)
-![The Homepage on desktop](/showcase/home2.png)
+![The Homepage on desktop](/Showcase/home1.png)
+![The Homepage on desktop](/Showcase/home2.png)
  
 #### Original PSD Design
 ![PSD file](/showcase/home.png)
