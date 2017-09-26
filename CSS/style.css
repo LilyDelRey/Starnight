@@ -63,3 +63,31 @@ margin-left: 130px;
     margin-left: 130px;
     margin-bottom: 30px;
 }
+
+.third{
+    background: url('../Images/background3.jpg') no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.third img{
+    width: 130px;
+    height: 129px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.third p{
+    width: 55vw;
+    font-size: 25px;
+    margin: 0 auto;
+    margin-bottom: 220px;
+}
+.forth{
+    color: grey;
+}
+.forth .column{
+    border-right: 1px solid grey;
+}
