@@ -86,8 +86,33 @@ margin-left: 130px;
     margin-bottom: 220px;
 }
 .forth{
-    color: grey;
+    color: #928B8B;
+    font-size: 14px;
+    line-height: 20px;
 }
 .forth .column{
-    border-right: 1px solid grey;
+    border-right: 1px solid #D1C5C5;
+    padding-right: 8vw;
+}
+.forth h2{
+font-size: 15px;
+margin-bottom: 30px;
+}
+.forth .column2{
+    padding-left: 8vw;
+}
+.forth .lorem{
+    margin-top: 70px;
+    margin-bottom: 65px;
+    width: 42vw;
+}
+.demo{
+    text-align: center;
+    margin-bottom: 10vw;
+}
+.demo button{
+    background-color: #f69679;
+    padding: 10px 32px;
+    color: white;
+    border-style: none;
 }
