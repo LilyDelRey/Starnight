@@ -20,9 +20,16 @@ Screenshots
 #### Homepage on desktop
 ![The Homepage on desktop](/Showcase/home1.png)
 ![The Homepage on desktop](/Showcase/home2.png)
+![The Homepage on desktop](/Showcase/home3.png)
+![The Homepage on desktop](/Showcase/home4.png)
+![The Homepage on desktop](/Showcase/home5.png)
+![The Homepage on desktop](/Showcase/home6.png)
  
 #### Original PSD Design
 ![PSD file](Showcase/psd.png)
+![PSD file](Showcase/psd2.png)
+![PSD file](Showcase/psd3.png)
+
 
 What I learned doing this project
 --------------
