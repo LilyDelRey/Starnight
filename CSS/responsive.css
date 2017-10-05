@@ -1,0 +1,73 @@
+@media screen and (max-width: 850px){
+
+container{
+    width: 100%;
+}
+body{ 
+    overflow-x: hidden; 
+}
+.text{
+    width: 80%;
+    text-align: center;
+}
+.second h1, .second p, .second button{
+    margin-left: 5vw;
+
+}
+.second .row{
+    width: 95%;
+}
+
+.forth .lorem{
+ width: 80%;
+ border: none;
+ margin: 0 auto;
+ margin-bottom: 8vh;
+}
+.forth .column2{
+padding-left: 0;
+}
+.fifth .flat{
+    width: 80%;
+}
+}
+
+@media screen and (min-width: 851px) and (max-width: 1150px){
+
+
+    container{
+        width: 100%;
+    }
+    body{ 
+        overflow-x: hidden; 
+    }
+    .text{
+        width: 80%;
+        text-align: center;
+    }
+    .second h1, .second p, .second button{
+        margin-left: 5vw;
+    
+    }
+    .second .row{
+        width: 80vw;
+    }
+    .forth .lorem{
+        width: 80%;
+        border: none;
+        margin: 0 auto;
+        margin-bottom: 8vh;
+    }
+    .forth .column2, .forth .column{
+       padding-left: 10vw;
+    }
+    .fifth .flat{
+        display: block;
+        clear: both;
+    }
+    .fifth .float{
+        margin-left: 5vw;
+
+    }
+}
+
