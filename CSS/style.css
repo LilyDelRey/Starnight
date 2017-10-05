@@ -123,13 +123,10 @@ letter-spacing: 2px;
 .square{
     width: 250px;
     height: 250px;
-    padding-bottom: 0;
-    margin-bottom: 0;
+    margin-bottom: -19px;
 }
 .red{
     background-color: #f69679;
-    padding-bottom: 0;
-    margin-bottom: 0;
 }
 .orange{
     background-color: #e8b968;
@@ -169,10 +166,48 @@ font-weight: 100;
 .fifth .row{
     width: 85vw;
     margin-left: 10vw;
-    margin-bottom: 40vh;
+    margin-bottom: 35vh;
 }
 .juice p{
     padding-left: 15px;
     font-size: 14px;
     color: #9197a8;
+}
+.footer .footer1{
+    width: 30vw;
+    padding-left: 8vw;
+}
+.footer .footer1, .footer .footer2{
+    float: left;
+    padding-top: 8vh;
+    color: #e4f5f4;
+}
+.footer .footer3{
+    float: right;
+    padding-top: 8vh;
+}
+.footer2{
+    width: 20vw;
+}
+.footer{
+    background-color: #7accc8;
+    width: 100%;
+}
+.footer ul{
+    list-style-type: none;
+    line-height: 25px;
+}
+.footer4{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 8vh;
+}
+.footer4 img{
+    margin-bottom: 10vh;
+}
+.footer4 p{
+    font-variant: small-caps;
+    letter-spacing: 2px; 
+    margin-bottom: 15vh;
+    color: #e4f5f4;
 }
