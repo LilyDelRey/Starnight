@@ -1,7 +1,7 @@
 # Starnight
 Project Overview
 ============ 
-This project was created to practice my skills in coding PSD files into HTML and CSS files. 
+This project was created to practice my skills in coding PSD files into HTML and CSS files. I also made sure that the page was responsive in all screen sizes. 
 Starnight is an app that helps you see the stars at night. It is perfect for Android and IOS users due to its very simple layout.
 
 Technologies Used
