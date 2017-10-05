@@ -97,6 +97,8 @@ margin-left: 130px;
 .forth h2{
 font-size: 15px;
 margin-bottom: 30px;
+font-variant: small-caps;
+letter-spacing: 2px;
 }
 .forth .column2{
     padding-left: 8vw;
@@ -105,6 +107,7 @@ margin-bottom: 30px;
     margin-top: 70px;
     margin-bottom: 65px;
     width: 42vw;
+    color: #9197a8;
 }
 .demo{
     text-align: center;
@@ -116,15 +119,60 @@ margin-bottom: 30px;
     color: white;
     border-style: none;
 }
-.fifth row{
-    margin: 40px auto;
 
+.square{
+    width: 250px;
+    height: 250px;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
-.square1{
-    display: block;
-    width: 150px;
-    height: 150px;
-    background-color: orange;
-    float:left;
+.red{
+    background-color: #f69679;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.orange{
+    background-color: #e8b968;
+}
+.juice{
+    margin-top: 0;
+    width: 250px;
+    font-size: 14px;
+    color: grey;
+    background-color: white;
+    padding-bottom: 40px;
+    border-bottom: 3px solid #eaeaea;
+}
+.fifth h2{
+    font-size: 16px;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+}
+.float{
+float: left;
+margin-top: 70px;
+}
 
+.fifth{
+    background-color: #f6f6f4;
+    width: 100%;
+}
+.flat{
+    color: #abbcc3;
+    margin-top: 55px;
+}
+.flat h1{
+font-weight: 100;
+}
+.fifth .row{
+    width: 85vw;
+    margin-left: 10vw;
+    margin-bottom: 40vh;
+}
+.juice p{
+    padding-left: 15px;
+    font-size: 14px;
+    color: #9197a8;
 }
